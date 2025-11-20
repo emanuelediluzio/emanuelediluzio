@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Ciao, sono Emanuele 👋</h2>
-  <p>Studente di Artificial Intelligence Engineering, appassionato di sviluppo software, AI generativa e design interattivo.</p>
+  <p>Artificial Intelligence Engineer, appassionato di sviluppo software, AI generativa e design interattivo.</p>
 
   <h3>Connettiti con me</h3>
   <p>
