@@ -101,11 +101,4 @@
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
   </p>
-
-  <h3>Supporto</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/emanuelediluzio" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-    </a>
-  </p>
 </div>
